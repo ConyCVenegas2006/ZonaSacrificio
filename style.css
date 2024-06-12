@@ -1,0 +1,47 @@
+.body__h1 {
+    text-align: center;
+    padding: 2% 0;
+    font-size: 50px;
+    background-color: brown;
+    
+                              
+}
+
+
+.fuente-uno{
+    text-align: left;
+
+}
+
+h4{
+    padding: 2%   0;
+    font-size: 50px;
+    background-color: aliceblue;
+    display: flex;
+    font-style: italic;
+}
+
+.col{
+    text-align: left;
+    font-family: serif;
+    padding: 2%  0;
+    font-size: 30px;
+
+
+
+}
+
+h5{
+    padding: 2%   0;
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+
+    
+}
+.final{
+    font-weight: bolder;
+    text-decoration: underline;
+
+}
